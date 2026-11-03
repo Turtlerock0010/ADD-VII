@@ -1,4 +1,4 @@
-# ADD VI
+# ADD VII
 <img width="1124" height="847" alt="ADD VI" src="https://github.com/user-attachments/assets/b3420f07-6378-4564-87e6-60e5d53ab922" />
 
 > No robot yet, but here's DeOrbit, our last season's robot!
