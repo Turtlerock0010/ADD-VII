@@ -19,7 +19,6 @@ Welcome to DeOrbit code respository, A repository for the programmers of MiniFRC
 - [@Turtlerock0010](https://github.com/Turtlerock0010) || Daniel
 - [@Ruffle15cute](https://github.com/Ruffle15cute) || Yadhu
 - Oliver
-- Karan
 
 
 ## Extra Information
